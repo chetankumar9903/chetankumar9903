@@ -7,9 +7,9 @@
 - 💻 My main programming language is Java.
 - 🧠 Passionate about Data Structures and Algorithms. Check out my [LeetCode profile](https://leetcode.com/chetankumar_22/) for some coding challenges!
 - 👨‍💻 Specialize in MERN Stack Development.
+- 🔭 Currently immersed in learning new technology : Spring Boot 
 - 👯 Contributing to open-source projects for a brighter future
 - 💬 Interested in discussing the fusion of Technology
-- 🔭 Currently immersed in learning new technology : Spring Boot 
 - 📫 Feel free to reach out to me at   kumarchetan10458@gmail.com
 
 - 🚀 Here is my Portfolio : 
@@ -21,7 +21,7 @@
 ## Connect with Me
 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/chetankumar_22/)   300+ questions Solved<br />
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/chetankumar_22/)   500+ questions Solved<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-kumar-61b888267/)<br />
 
