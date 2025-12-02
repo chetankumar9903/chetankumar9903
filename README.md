@@ -3,7 +3,7 @@
 <!-- <h4>A Full-Stack Web developer | MERN Stack</h4> -->
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- ⚡ I'm currently pursuing B.Tech in Information Technology at Veermata Jijabai Technological Institute, Mumbai.
+- ⚡ I’m a Software Development Engineer (SDE) and a B.Tech graduate in Information Technology from Veermata Jijabai Technological Institute, Mumbai.
 - 💻 My main programming language is Java.
 - 🧠 Passionate about Data Structures and Algorithms. Check out my [LeetCode profile](https://leetcode.com/chetankumar_22/) for some coding challenges!
 - 👨‍💻 Specialize in MERN Stack Development.
@@ -43,6 +43,9 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://imgs.search.brave.com/zy5I-8owxROdTd8yyUrjXR2WjF1mdAyP170MErblTDg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1Mvc3FsLWxv/Z28tQzM3MERFQTA2/Ni1zZWVrbG9nby5j/b20ucG5n" alt="sql" width="60" height="40"/>
     </a>
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png" alt="C#" width="40" height="40"/>
+    </a>
   
 </p>
 
@@ -59,7 +62,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="margin-right: 10px;"> <img src="https://spring.io/img/spring.svg" alt="tailwind" width="40" height="40"/> </a>
-   </a> 
+     <a href="https://angular.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+    </a>
+   </p> 
 
 
 <h3 align="left">Developer Tools:</h3>
