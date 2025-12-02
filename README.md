@@ -87,6 +87,12 @@
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="linux" width="40" height="40"/> </a>
+     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-visualstudio-282289.png" alt="Visual Studio" width="40" height="40"/>
+    </a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-282301.png" alt="Eclipse" width="40" height="40"/>
+    </a>
 </p>
 
 <b>Top Repositories</b>
